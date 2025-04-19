@@ -103,7 +103,7 @@ body {
 
 .box {
   background: linear-gradient(to bottom, #3ac7e0, #0096c7);
-  min-height: 200px;
+  min-height: 175px;
 }
 
 .form-control:focus {
